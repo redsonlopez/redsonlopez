@@ -1,6 +1,7 @@
 # Olá!
 
-Sou estudante de Ciência de Dados e atualmente estagiário na Prefeitura de Belo Horizonte. Tenho experiência em:
+Sou estudante de Ciência de Dados e atualmente estagiário na Prefeitura de Belo Horizonte.
+Tenho experiência em:
 
 -   Limpeza e análise de dados usando Python
 -   Consultas SQL e manipulação de bancos de dados 🗄️
@@ -13,7 +14,8 @@ Costumo trabalhar diretamente no terminal, aproveitando o ambiente Linux para ta
 
 # Hello!
 
-I’m a Data Science student currently interning at the City Hall of Belo Horizonte. I have experience in:
+I’m a Data Science student currently interning at the City Hall of Belo Horizonte.
+I have experience in:
 
 -   Data cleaning and analysis using Python
 -   SQL queries and database manipulation 🗄️
