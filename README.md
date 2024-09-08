@@ -11,6 +11,10 @@ Tenho experiência em:
 Costumo trabalhar diretamente no terminal, aproveitando o ambiente Linux para tarefas de desenvolvimento.<br>
 Estou sempre buscando novos desafios e oportunidades para aplicar e expandir minhas habilidades, principalmente em projetos que envolvem soluções de problemas complexos.
 
+**Entre em contato:**
+- [LinkedIn](https://www.linkedin.com/in/redsonlopez/)
+- [GitHub](https://github.com/redsonlopez/)
+
 ----------
 
 # Hello!
@@ -25,3 +29,8 @@ I have experience in:
 
 I frequently work directly in the terminal, leveraging the Linux environment for development tasks.<br>
 I’m always looking for new challenges and opportunities to apply and grow my skills, especially in projects that tackle complex problems.
+
+**Contact me:**
+- [LinkedIn](https://www.linkedin.com/in/redsonlopez/)
+- [GitHub](https://github.com/redsonlopez/)
+
