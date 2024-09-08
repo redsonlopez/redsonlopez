@@ -13,8 +13,7 @@ Costumo trabalhar diretamente no terminal, aproveitando o ambiente Linux para ta
 Estou sempre buscando novos desafios e oportunidades para aplicar e expandir minhas habilidades, principalmente em projetos que envolvem soluções de problemas complexos.
 
 **Conecte-se comigo:**
-- [LinkedIn](https://www.linkedin.com/in/redsonlopez/)
-- [GitHub](https://github.com/redsonlopez/)
+<a href="https://www.linkedin.com/in/redsonlopez/"><img height="32" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn"/></a> <a href="https://github.com/redsonlopez/"><img height="32" src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000" alt="GitHub"/></a>
 
 ----------
 
@@ -33,6 +32,5 @@ I frequently work directly in the terminal, leveraging the Linux environment for
 I’m always looking for new challenges and opportunities to apply and grow my skills, especially in projects that tackle complex problems.
 
 **Connect with me:**
-- [LinkedIn](https://www.linkedin.com/in/redsonlopez/)
-- [GitHub](https://github.com/redsonlopez/)
+<a href="https://www.linkedin.com/in/redsonlopez/"><img height="32" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn"/></a> <a href="https://github.com/redsonlopez/"><img height="32" src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000" alt="GitHub"/></a>
 
