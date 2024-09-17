@@ -9,7 +9,6 @@ Sou Hedson Lopes, estudante de Ciência de Dados e atualmente estagiário na Pre
 -   Versionamento de código com Git <code><img height="32" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="c"/></code>
 -   Uso de Linux como ambiente de desenvolvimento <code><img height="32" src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="c"/></code>
 
-Costumo trabalhar diretamente no terminal, aproveitando o ambiente Linux para tarefas de desenvolvimento.<br>
 Estou sempre buscando novos desafios e oportunidades para aplicar e expandir minhas habilidades, principalmente em projetos que envolvem soluções de problemas complexos.
 
 **Conecte-se comigo:**<br><br>
@@ -28,7 +27,6 @@ I’m Hedson Lopes, a Data Science student currently interning at the City Hall 
 -   Code versioning with Git <code><img height="32" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="c"/></code>
 -   Using Linux as a development environment <code><img height="32" src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="c"/></code>
 
-I frequently work directly in the terminal, leveraging the Linux environment for development tasks.<br>
 I’m always looking for new challenges and opportunities to apply and grow my skills, especially in projects that tackle complex problems.
 
 **Connect with me:**<br><br>
